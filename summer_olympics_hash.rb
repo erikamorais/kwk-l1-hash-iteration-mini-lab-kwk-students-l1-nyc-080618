@@ -13,7 +13,7 @@ counter += 1
 end 
 puts olympics_hash
 end 
-olympics_hash
+olympics_hash.each do 
 
 
 def add_a_key_value_pair
