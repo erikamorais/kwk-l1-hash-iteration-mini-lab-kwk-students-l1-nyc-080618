@@ -1,7 +1,7 @@
 
 def create_olympics_hash
   # Implement this method so that it returns a hash with the data provided on README.md
-create_olympics_hash ["Skating", "Track", "Volleyball"]
+create_olympics_hash
   
 end
 
