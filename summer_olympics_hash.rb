@@ -14,7 +14,7 @@ end
 puts olympics_hash
 end 
 olympics_hash.each do |sports,year|
-  
+  puts 
 
 
 def add_a_key_value_pair
