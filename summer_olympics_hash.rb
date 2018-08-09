@@ -13,7 +13,7 @@ counter += 1
 end 
 puts olympics_hash
 end 
-
+olympics_hash
 
 
 def add_a_key_value_pair
