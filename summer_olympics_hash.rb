@@ -29,7 +29,7 @@ def add_a_key_value_pair
   new_place = "Athens"
   new_date = 2004
   summer_olympics [new_place] = new_date
-  puts summer_olympicS
+  puts summer_olympics
 end
 add_a_key_value_pair
 
