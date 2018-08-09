@@ -50,5 +50,5 @@ puts olympics_hash
 olympics_hash.each do |sports,year|
   puts "Sports: #{sports} Year: #{year}"
 end
-end 
+end
 iterate_through_keys
