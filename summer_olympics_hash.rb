@@ -19,8 +19,17 @@ end
 create_olympics_hash
 
 
+
+
+
 def add_a_key_value_pair
   # Implement this method so that it adds a key value pair to the hash created in create_olympics_hash
+  summer_olympics = {}
+  summer_olympics = ["Sydney"] = 2000
+  new_item = "Athens"
+  item_place = 2004
+  summer_olympicS [new_item] = item_place
+  puts summer_olympicS
 end
 
 def iterate_through_hash
