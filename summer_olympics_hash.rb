@@ -12,8 +12,9 @@ olympics_hash [sports] = year[counter]
 counter += 1 
 end 
 puts olympics_hash
-  
-end
+end 
+
+
 
 def add_a_key_value_pair
   # Implement this method so that it adds a key value pair to the hash created in create_olympics_hash
