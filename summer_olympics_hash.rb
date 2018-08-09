@@ -13,7 +13,8 @@ counter += 1
 end 
 puts olympics_hash
 end 
-olympics_hash.each do 
+olympics_hash.each do |sports,year|
+  
 
 
 def add_a_key_value_pair
