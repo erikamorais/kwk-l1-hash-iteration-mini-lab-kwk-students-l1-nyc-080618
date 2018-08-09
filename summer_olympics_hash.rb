@@ -5,7 +5,7 @@ def create_olympics_hash
 summer_olympics = ["Sydney", "Athens", "Beijing", "London"]
 year = [2000, 2004, 2008, 2012]
 
-
+olympics_hash = 
   
 end
 
