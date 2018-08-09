@@ -8,7 +8,8 @@ year = [2000, 2004, 2008, 2012]
 olympics_hash = {}
 counter = 0 
 summer_olympics do |sports|
-olympics_hash
+olympics_hash [sports]
+
   
 end
 
