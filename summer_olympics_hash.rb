@@ -16,6 +16,7 @@ olympics_hash.each do |sports,year|
   puts "Sports #{sports} Year #{year}"
 end
 end 
+create_olympics_hash
 
 
 def add_a_key_value_pair
