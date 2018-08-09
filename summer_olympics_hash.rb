@@ -11,7 +11,7 @@ summer_olympics do |sports|
 olympics_hash [sports] = year[counter]
 counter += 1 
 end 
-create_olympics_hash
+puts olympics_hash
   
 end
 
